@@ -14,3 +14,4 @@ only refresh every time you will be able to see the result.
 Give it a try and see if you have what it takes to beat the odds!"
 
 
+<a href = "https://maheshmali1.github.io/Dice-game-challenge/"> Live demo - Dice game </a>
